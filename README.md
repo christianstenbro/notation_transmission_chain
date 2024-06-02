@@ -1,1 +1,1 @@
-A repository containing scripts, data, and experiment files associated with my exam project "Towards a Cognitive Model of the Cultural Evolution of Musical Notation", for the Social and Cultural Dynamics Course at Cognitive Science, Aarhus University.
+A repository containing scripts, data, and experiment files associated with my exam project **Towards a cognitive model of the cultural evolution of musical notation**, for the Social and Cultural Dynamics Course at Cognitive Science, Aarhus University.

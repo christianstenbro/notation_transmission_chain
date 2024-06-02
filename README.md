@@ -1,1 +1,1 @@
-
+Scripts, data, and experiment files associated with my exam project "Towards a Cognitive Model of the Cultural Evolution of Musical Notation", for the Social and Cultural Dynamics Course ar Cognitive Science, Aarhus University.
